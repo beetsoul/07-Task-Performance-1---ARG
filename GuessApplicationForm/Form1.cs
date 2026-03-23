@@ -65,7 +65,7 @@ namespace GuessApplicationForm
 
                 if (label1.Text == wordToGuess)
                 {
-                    MessageBox.Show("You guessed the word!");
+                    MessageBox.Show("Correct guess!");
                 }
             }
             else
@@ -76,7 +76,7 @@ namespace GuessApplicationForm
                     listBox.Items.Add(guess);
                 }
 
-                MessageBox.Show("Wrong guess. Try Again!");
+                MessageBox.Show("Wrong guess! Try Again.");
             }
 
             guessTextBox.Clear();

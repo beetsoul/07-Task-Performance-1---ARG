@@ -58,6 +58,7 @@
             this.guessTextBox.Name = "guessTextBox";
             this.guessTextBox.Size = new System.Drawing.Size(312, 22);
             this.guessTextBox.TabIndex = 1;
+            this.guessTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // guessBtn
             // 
@@ -101,6 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::GuessApplicationForm.Properties.Resources.Capture;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(528, 155);
             this.Controls.Add(this.listBox);
@@ -108,7 +110,7 @@
             this.Controls.Add(this.guessBtn);
             this.Controls.Add(this.guessTextBox);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "Form1";
             this.Text = "Guess The Word";
             this.ResumeLayout(false);
