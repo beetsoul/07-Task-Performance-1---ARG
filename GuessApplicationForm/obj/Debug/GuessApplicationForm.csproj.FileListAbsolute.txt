@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\bin\Debug\GuessApplicationForm.exe.config
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\bin\Debug\GuessApplicationForm.exe
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\bin\Debug\GuessApplicationForm.pdb
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.Form1.resources
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.exe
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.pdb
+C:\Users\Administrator\source\repos\GuessApplicationForm\GuessApplicationForm\obj\Debug\GuessApplicationForm.exe.config
